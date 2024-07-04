@@ -15,7 +15,7 @@ SharedFields:
   Value: Services
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: "hiltongrandvacations-dpaffkyqyuobsp81axvg-services.vercel.app"
+  Value: "scm-test-jzi-gmlo64zkew4vfpiqqbqq-services.vercel.app"
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: Services
@@ -35,7 +35,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "469fea23-608d-4672-8fb7-052ba3f182b3"
+      Value: "67490ee8-ea3d-4590-afe3-0ad1031ba1a9"
     - ID: "96cffc48-0bd5-4f70-9b36-d49c844d51ef"
       Hint: Theme
       Value: Services
